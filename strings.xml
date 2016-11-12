@@ -77,11 +77,11 @@
     <!-- Lights settings -->
     <string name="lights_label">指示灯</string>
     <!-- lock screen visualizer -->
-    <string name="lockscreen_visualizer_title">Display music visualizer</string>
+    <string name="lockscreen_visualizer_title">音乐可视化显示</string>
     <!-- title for lock screen weather preference -->
-    <string name="lockscreen_weather_enabled_title">Show weather</string>
+    <string name="lockscreen_weather_enabled_title">显示天气</string>
     <!-- title for lock screen shortcuts -->
-    <string name="lockscreen_shortcuts_title">Lock screen shortcuts</string>
+    <string name="lockscreen_shortcuts_title">锁屏界面快捷键</string>
     <!-- Android debugging over network -->
     <string name="adb_over_network">ADB网络调试</string>
     <string name="adb_over_network_summary">启用TCP/IP调试通过网络接口（WIFI、USB网络）。此设置将在下一次启动时重置</string>
