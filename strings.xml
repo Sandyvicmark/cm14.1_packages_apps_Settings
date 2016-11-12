@@ -36,14 +36,14 @@
     <string name="root_access_adb">仅限ADB</string>
     <string name="root_access_all">应用与ADB</string>
     <!-- Preference link for root appops -->
-    <string name="root_appops_title">管理root权限</string>
-    <string name="root_appops_summary">查看并管理root规则</string>
+    <string name="root_appops_title">管理Root权限</string>
+    <string name="root_appops_summary">查看并管理Root规则</string>
     <!-- About phone screen, CyanogenMod version -->
-    <string name="mod_version">CyanogenMod版本</string>
+    <string name="mod_version">CyanogenMod 版本</string>
     <string name="mod_version_default">未知</string>
 
     <!-- About phone screen, CyanogenMod Api Level -->
-    <string name="mod_api_level">CyanogenMod API级别</string>
+    <string name="mod_api_level">CyanogenMod API 级别</string>
     <string name="mod_api_level_default">未知</string>
 
     <!-- About phone screen, build date -->
@@ -51,29 +51,37 @@
     <string name="build_date_default">2015-01-01-0000</string>
 
     <!-- CM Updater -->
-    <string name="cmupdate_settings_title">CyanogenMod更新</string>
+    <string name="cmupdate_settings_title">CyanogenMod 更新</string>
     <!-- Memory -->
     <string name="memory_startup_apps_title">自启动应用</string>
     <!-- Advanced reboot options -->
     <string name="advanced_reboot_title">高级重启</string>
     <string name="advanced_reboot_summary">解锁后，重启至恢复模式、引导模式或软重启将会显示在电源菜单的重启列表中</string>
     <!-- MSIM SIM status -->
-    <string name="sim_card_status_title">SIM卡 %d 状态</string>
-    <string name="sim_card_lock_settings_title">SIM卡 %d 锁定设置</string>
-    <string name="sim_card_summary_empty">SIM not inserted</string>
+    <string name="sim_card_status_title">SIM 卡 %d 状态</string>
+    <string name="sim_card_lock_settings_title">SIM 卡 %d 锁定设置</string>
+    <string name="sim_card_summary_empty">SIM 卡未插入</string>
     <string name="sim_mobile_network_settings_category_title">移动网络设置</string>
-    <string name="sim_mobile_network_settings_title">SIM卡 %d 设置</string>
+    <string name="sim_mobile_network_settings_title">SIM 卡 %d 设置</string>
     <!-- Kill app long-press back -->
     <string name="kill_app_longpress_back">结束应用键</string>
     <string name="kill_app_longpress_back_summary">长按返回键以结束前台应用</string>
     <!-- Android debugging -->
-    <string name="enable_adb_cm">Android调试</string>
-    <string name="enable_adb_summary_cm">启用Android Debug Bridge(ADB)界面</string>
+    <string name="enable_adb_cm">Android 调试</string>
+    <string name="enable_adb_summary_cm">启用 Android Debug Bridge(ADB) 界面</string>
 
     <!-- Android debugging notification -->
     <string name="adb_notify">调试通知</string>
     <string name="adb_notify_summary">当USB或网络调试开启时显示通知</string>
-
+    
+    <!-- Lights settings -->
+    <string name="lights_label">指示灯</string>
+    <!-- lock screen visualizer -->
+    <string name="lockscreen_visualizer_title">Display music visualizer</string>
+    <!-- title for lock screen weather preference -->
+    <string name="lockscreen_weather_enabled_title">Show weather</string>
+    <!-- title for lock screen shortcuts -->
+    <string name="lockscreen_shortcuts_title">Lock screen shortcuts</string>
     <!-- Android debugging over network -->
     <string name="adb_over_network">ADB网络调试</string>
     <string name="adb_over_network_summary">启用TCP/IP调试通过网络接口（WIFI、USB网络）。此设置将在下一次启动时重置</string>
