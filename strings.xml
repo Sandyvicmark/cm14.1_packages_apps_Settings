@@ -24,13 +24,13 @@
     <!-- [CHAR LIMIT=NONE] Device Info screen. Confirmation that developer settings are enabled -->
     <string name="show_dev_on_cm">你开启了开发者模式</string>
     <!-- [CHAR LIMIT=NONE] Device Info screen. Okay we get it, stop pressing, you already have it on -->
-    <string name="show_dev_already_cm">还点，你都已经开启开发者模式啦</string>
+    <string name="show_dev_already_cm">开发者模式已开启</string>
     <!-- Launch Dev Tools -->
     <string name="development_tools_title">开发者工具</string>
     <!--ROOT ACCESS-->
     <string name="root_access">Root权限</string>
-    <string name="root_access_warning_title">允许开启 Root 权限？</string>
-    <string name="root_access_warning_message">其实开了 Root 也没什么大事，都是吓唬人的，手动滑稽。</string>
+    <string name="root_access_warning_title">允许开启 Root 权限吗</string>
+    <string name="root_access_warning_message">Root权限可以让你拥有更高权限，同时会带来一定风险，请谨慎使用。</string>
     <string name="root_access_none">关闭</string>
     <string name="root_access_apps">仅限应用</string>
     <string name="root_access_adb">仅限 ADB</string>
